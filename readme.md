@@ -30,7 +30,7 @@
 ## Installation
 
 ```
-npm install
+npm install 
 ```
 
 ## Create a .env
