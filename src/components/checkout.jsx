@@ -38,7 +38,11 @@ export default function Checkout() {
         </section>
     ) : (
             <section>
-                <button type="button" id="checkout-button" role="link" onClick={handleClick}>
+                <button
+                    type="button"
+                    id="checkout-button"
+                    role="link"
+                    onClick={handleClick}>
                     Checkout
             </button>
             </section>
