@@ -13,7 +13,7 @@
 ## Made with
 * [React](https://reactjs.org/) for the Frontend
 * [react-router-DOM](https://www.npmjs.com/package/react-router-dom) 
-* [Express](https://reactjs.org/) for the Backend
+* [Express](https://expressjs.com/) for the Backend
 * [Knex](http://knexjs.org) Query Builder
 * [Stripe REST API](https://stripe.com/docs/api) API Queries
 * [Postgres](https://www.postgresql.org) Database
