@@ -1,9 +1,10 @@
-“This was developed during our time as students at Code Chrysalis”
+# Tasukete - an app for helping new comers to Japan.
+
+*This was developed during my time as student at Code Chrysalis*
 
 <p align="center">
     <img src="public/asset/logo.png" width="150px">
 </p>
-# Tasukete - an app for helping new comers to Japan.
 
 **Tasukete** is a fullstack group project application, using the [Stripe](https://stripe.com/en-jp) API and simple checkout system integration.
     This project gave us the opportunity to work with a real client and to undertake the challenge of building an MVP based on an API from
@@ -31,12 +32,10 @@ npm install
 ### Create a .env
 
 ```
-
 DB_NAME= // your database name
 DB_USER= // postgres username
 DB_PW=// your postgres password
 ```
-
 
 ### run
 
@@ -45,7 +44,7 @@ npm run start
 npm run hack:client
 ```
 
-## Overall repo structure
+## Screenshots
 
 ![Screen Shot 2021-06-22 at 8 12 53](https://user-images.githubusercontent.com/66731438/122840234-ac745f80-d334-11eb-8f91-0ad031e49e3f.png)
 ![Screen Shot 2021-06-22 at 8 14 05](https://user-images.githubusercontent.com/66731438/122840239-ada58c80-d334-11eb-877a-f255e36f398b.png)
@@ -75,4 +74,4 @@ Many thanks!
 
 ## Helpful links
 
-* Thank Stripe for letting us test their API during this project! <https://stripe.com/en-jp>
+* Thanks to Stripe for letting us test their API during this project! <https://stripe.com/en-jp>
