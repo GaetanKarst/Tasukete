@@ -34,7 +34,7 @@ exports.seed = function(knex) {
         
         {first_name: "Chirs", last_name: "Ackermann", location: "Tokyo", date_birth: "1900-01-01", 
         description: "Hi, my name is Chirs, and I'd like to offer my help. Having been in Japan for 8 years, I have a lot of experience with the immigration office and apartments.", 
-        image: "/assets/chirs.jpg", services: ["apartments", "immigration"]}
+        image: "/assets/chirs.jpg", services: ["apartments", "immigration"]} 
       ])
     })
     .then(function () {
