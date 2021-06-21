@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import wards from './data/tokyowards.json'
+import wards from '../utils/data/tokyowards.json'
 import { BrowserRouter as Router, Switch, Route, Link, Redirect, useHistory } from "react-router-dom";
 import { services } from '../utils/constants'
 
