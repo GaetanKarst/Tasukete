@@ -18,13 +18,13 @@
 * [Stripe REST API](https://stripe.com/docs/api) API Queries
 * [Postgres](https://www.postgresql.org) Database
 
-## Overall repo structure
+## Overall repo structure <img src="https://user-images.githubusercontent.com/27636896/123047418-3bb66b80-d438-11eb-9de2-9f74e3685dd4.png" width=4% height=4%>
 * Configuration files are in the `root` folder.
 * In the `migrations` folder are located all the migrations for the PostgresSQL Database
 * In the `server` folder are located all the files necessary to the back-end node server.
 * In the `src` folder are located all the source files related with the `client`
 
-## Installation
+## Installation <img src="https://user-images.githubusercontent.com/27636896/123047679-8a640580-d438-11eb-8518-164681ebc73b.png" width=3% height=3%>
 
 ```
 npm install 
@@ -53,7 +53,7 @@ npm run hack:client
 ![Screen Shot 2021-06-22 at 8 20 12](https://user-images.githubusercontent.com/66731438/122840241-af6f5000-d334-11eb-8fbd-ead8867c37f1.png)
 
 
-## Contributing
+## Contributing <img src="https://user-images.githubusercontent.com/27636896/123049411-7ae5bc00-d43a-11eb-838e-8656bd1fcc00.png" width=5% height=5%>
 
 Should you want to contribute:
 * please fork and clone the repo on your machine
